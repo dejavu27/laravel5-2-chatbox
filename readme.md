@@ -6,9 +6,9 @@ Created by PH.Dejavu27(iNew Works)
 This has no database, you should have study the whole system and make your own database. This is easy if you really wanted to get the system. Its worthy to unlocked the database
 
 # Database Structure's Important column name
--updated_at(timestamp)
--created_at(timestamp)
--id(int)(16)
+-updated_at(timestamp)<br>
+-created_at(timestamp)<br>
+-id(int)(16)<br>
 
 # Laravel PHP Framework
 
