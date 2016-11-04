@@ -2,6 +2,14 @@
 
 Created by PH.Dejavu27(iNew Works)
 
+# SPECIAL NOTE :
+This has no database, you should have study the whole system and make your own database. This is easy if you really wanted to get the system. Its worthy to unlocked the database
+
+# Database Structure's Important column name
+-updated_at(timestamp)
+-created_at(timestamp)
+-id(int)(16)
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
