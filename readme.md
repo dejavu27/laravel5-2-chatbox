@@ -1,3 +1,7 @@
+# Laravel 5.2 Chatbox with twitter and facebook login
+
+Created by PH.Dejavu27(iNew Works)
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
